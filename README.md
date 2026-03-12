@@ -1,4 +1,4 @@
-# Quarterly Review: The Interview
+# 🐬 Quarterly Review: The Interview
 
 > 20 questions. Three acts. One quarter compressed into clarity.
 
@@ -16,7 +16,7 @@ Adapted from Tiago Forte's Annual Review (ARC method). Modified for quarterly ca
 
 ---
 
-## The Skill: [quarterly-review.md](quarterly-review.md)
+## 🐆 The Skill: [quarterly-review.md](quarterly-review.md)
 
 A 20-question interview framework that works with any frontier AI model. The AI plays interviewer — warm, direct, no fluff. One question at a time. Produces a clean summary at the end.
 
